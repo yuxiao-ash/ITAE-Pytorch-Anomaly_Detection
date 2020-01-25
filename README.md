@@ -9,8 +9,8 @@ An unofficial implementation of 'Inverse-Transform AutoEncoder for Anomaly Detec
 * tqdm
 
 ## how to use
-* run *python main.py config/config_mnist* to train and test on mnist dataset
-* run *python main.py config/config_cifar* to train and test on cifar dataset
+* run   *python main.py config/config_mnist*   to train and test on mnist dataset
+* run   *python main.py config/config_cifar*   to train and test on cifar dataset
 
 ## others
 This implementation refers to https://github.com/samet-akcay/ganomaly and https://github.com/milesial/Pytorch-UNet.
