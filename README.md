@@ -1,5 +1,5 @@
 # ITAE-Pytorch-Anomaly_Detection
-An unofficial implementation of 'Inverse-Transform AutoEncoder for Anomaly Detection', paper see https://arxiv.org/abs/1911.10676
+An **unofficial reproduced** implementation of 'Inverse-Transform AutoEncoder for Anomaly Detection', paper see https://arxiv.org/abs/1911.10676
 
 ## requirements
 * python3
@@ -14,3 +14,6 @@ An unofficial implementation of 'Inverse-Transform AutoEncoder for Anomaly Detec
 
 ## others
 This implementation refers to https://github.com/samet-akcay/ganomaly and https://github.com/milesial/Pytorch-UNet.
+
+## note
+To get the score in paper, please refer to [these suggestions from chaoqinhuang](https://github.com/FishSmile-syx/ITAE-Pytorch-Anomaly_Detection/issues/1#issuecomment-669802108) .
